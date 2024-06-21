@@ -13,7 +13,7 @@
   <p>
     📫 Vocês podem entrar em contato comigo através
     <br>
-    <a href="www.linkedin.com/in/felipe-alves-33818a104" target="_blank">
+    <a href="https://www.linkedin.com/in/felipe-alves-33818a104" target="_blank">
       <img alt="Felipe-LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn" />
     </a>
     <a href="mailto:felipelimalves.cabral@gmail.com" target="_blank">
