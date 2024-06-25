@@ -14,14 +14,9 @@
     📫 Vocês podem entrar em contato comigo através
     <br>
     <a href="https://www.linkedin.com/in/felipe-alves-33818a104" target="_blank">
-      <img alt="Felipe-LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn" />
-    </a>
-    <a href="mailto:felipelimalves.cabral@gmail.com" target="_blank">
-      <img alt="Felipe-Gmail" src="https://img.shields.io/badge/Gmail-gray?style=for-the-badge&logo=Gmail" />
-    </a>
-    <a href="https://www.instagram.com/flimalves" target="_blank">
-      <img alt="Felipe-Gmail" src="https://img.shields.io/badge/Instagram-gray?style=for-the-badge&logo=Instagram" />
-    </a>
+<img alt="Felipe-LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn" /></a>
+    <a href="mailto:felipelimalves.cabral@gmail.com" target="_blank"><img alt="Felipe-Gmail" src="https://img.shields.io/badge/Gmail-gray?style=for-the-badge&logo=Gmail" /></a>
+    <a href="https://www.instagram.com/flimalves" target="_blank"><img alt="Felipe-Gmail" src="https://img.shields.io/badge/Instagram-gray?style=for-the-badge&logo=Instagram" /></a>
   </p>
 </div>
 <!--
